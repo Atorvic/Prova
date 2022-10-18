@@ -14,3 +14,6 @@
  
  5 - O que é pull?
  R: Puxar as alterações do repositorio remoto para o repositorio local.
+
+ 7 - O que é branch?
+ R: R: Uma ramificação do projeto
