@@ -17,3 +17,6 @@
 
  7 - O que é branch?
  R: R: Uma ramificação do projeto
+
+ 8 - O que é pull request?
+ R: Uma solicitação de alteração do código, para o dono do codigo
