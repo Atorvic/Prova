@@ -6,7 +6,3 @@
  R: Commit é o empacotamento da alteração do arquivo.
  3 - O que é um repositório?
  R: Local onde guarda o projeto.
-
-
-
-
