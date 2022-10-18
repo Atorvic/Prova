@@ -10,3 +10,5 @@
  R: Merge é a opção de juntar duas branch
  5 - O que é pull?
  R: Puxar as alterações do repositorio remoto para o repositorio local
+ 7 - O que é branch?
+ R: Uma ramificação do projeto
