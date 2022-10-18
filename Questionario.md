@@ -8,3 +8,5 @@
  R: Local onde guarda o projeto.
  4 - O que é merge?
  R: Merge é a opção de juntar duas branch
+ 5 - O que é pull?
+ R: Puxar as alterações do repositorio remoto para o repositorio local
