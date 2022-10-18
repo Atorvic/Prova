@@ -23,3 +23,6 @@
 
  9 - O que é fork?
  R: Pegar o repositorio de terceiros para você
+
+ 10 - O que é um VCS?
+R: Software de controle de versão
