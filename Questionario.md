@@ -20,3 +20,6 @@
 
  8 - O que é pull request?
  R: Uma solicitação de alteração do código, para o dono do codigo
+
+ 9 - O que é fork?
+ R: Pegar o repositorio de terceiros para você
